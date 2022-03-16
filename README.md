@@ -2,9 +2,9 @@
 
 
 
-- 💻 I'm currently computer engineering student at Pamukkale University
-- 🌱 I'm currently learning web development and especially React.js
-- ⚡ Also I enjoy using p5.js library and make hobby project with it.
+- I'm currently computer engineering student at Pamukkale University
+- I'm currently learning web development and especially React.js
+
 
 ------------
 
