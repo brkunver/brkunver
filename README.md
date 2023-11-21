@@ -1,5 +1,3 @@
-
-
 ### The technologies that I'm using or currently learning 
 
 - Javascript / TS
@@ -9,3 +7,5 @@
 - Node.js
 - Fastify.js
 - PostgreSQL
+
+My Turkish blog : https://basitkod.com
