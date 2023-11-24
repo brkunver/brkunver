@@ -5,7 +5,5 @@
 - Astro.js
 - Tailwind CSS
 - Node.js
-- Fastify.js
-- PostgreSQL
 
 My Turkish blog : https://basitkod.com
