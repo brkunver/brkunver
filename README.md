@@ -6,4 +6,3 @@
 - Tailwind CSS
 - Node.js
 
-My Turkish blog : https://basitkod.com
