@@ -5,4 +5,5 @@
 - Astro.js
 - Tailwind CSS
 - Node.js
+- Next.js
 
