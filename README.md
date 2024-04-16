@@ -2,8 +2,7 @@
 
 - Javascript / TS
 - React.js
-- Astro.js
 - Tailwind CSS
-- Node.js
-- Next.js
+- Asp.net Web Api
+
 
