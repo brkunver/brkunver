@@ -3,6 +3,5 @@
 - Javascript / TS
 - React.js
 - Tailwind CSS
-- Asp.net Web Api
 
 
